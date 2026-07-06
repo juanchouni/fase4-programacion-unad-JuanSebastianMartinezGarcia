@@ -1,6 +1,10 @@
-from excepciones import CorreoInvalido
+from cliente import Cliente
 
-try:
-    raise CorreoInvalido("Correo incorrecto.")
-except CorreoInvalido as e:
-    print(f"Error capturado: {e}")
+cliente = Cliente(
+    "Juan Sebastian",
+    "123456789",
+    "juan@gmail.com",
+    "3001234567"
+)
+
+print(cliente.mostrar_info())
