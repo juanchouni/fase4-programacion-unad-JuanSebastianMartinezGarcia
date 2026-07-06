@@ -1,0 +1,9 @@
+2026-07-05 23:34:25,420 - INFO - Reserva confirmada correctamente.
+2026-07-05 23:34:25,421 - INFO - Proceso de confirmación finalizado.
+2026-07-05 23:35:56,448 - INFO - Reserva confirmada correctamente.
+2026-07-05 23:35:56,448 - INFO - Proceso de confirmación finalizado.
+2026-07-05 23:35:56,448 - ERROR - La duración debe ser mayor que cero.
+2026-07-05 23:35:56,448 - INFO - Proceso de confirmación finalizado.
+2026-07-05 23:35:56,448 - INFO - Reserva confirmada correctamente.
+2026-07-05 23:35:56,448 - INFO - Proceso de confirmación finalizado.
+2026-07-05 23:35:56,448 - INFO - Reserva cancelada.
