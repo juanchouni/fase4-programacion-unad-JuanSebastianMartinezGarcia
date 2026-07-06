@@ -1,10 +1,14 @@
-from cliente import Cliente
+from servicio import ReservaSala, AlquilerEquipo, AsesoriaEspecializada
 
-cliente = Cliente(
-    "Juan Sebastian",
-    "123456789",
-    "juan@gmail.com",
-    "3001234567"
-)
+sala = ReservaSala("Sala Premium", 50000)
+equipo = AlquilerEquipo("Portátil", 80000)
+asesoria = AsesoriaEspecializada("Python", 120000)
 
-print(cliente.mostrar_info())
+print(sala.describir())
+print(sala.calcular_costo(3))
+
+print(equipo.describir())
+print(equipo.calcular_costo(2))
+
+print(asesoria.describir())
+print(asesoria.calcular_costo(2, 0.10))
