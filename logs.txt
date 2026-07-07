@@ -21,3 +21,5 @@
 2026-07-06 23:26:36,650 - INFO - Reserva confirmada correctamente.
 2026-07-06 23:26:36,650 - INFO - Proceso de confirmación finalizado.
 2026-07-06 23:26:36,650 - INFO - Reserva cancelada.
+2026-07-06 23:31:27,595 - INFO - Reserva confirmada correctamente.
+2026-07-06 23:31:27,596 - INFO - Proceso de confirmación finalizado.
