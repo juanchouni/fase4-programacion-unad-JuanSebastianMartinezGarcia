@@ -1,6 +1,9 @@
 """
-excepciones.py
-Contiene todas las excepciones personalizadas del sistema Software FJ.
+Módulo de excepciones personalizadas.
+
+Este archivo contiene todas las excepciones utilizadas por el sistema
+de gestión de reservas Software FJ para controlar y reportar errores
+durante la ejecución del programa.
 """
 
 
